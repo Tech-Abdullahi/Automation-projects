@@ -7,7 +7,7 @@ import os
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getproperty('voice')
-# print(voices[1].id)
+
 engine.setproperty('voice', voices[1].id)
 
 def speak(audio):
