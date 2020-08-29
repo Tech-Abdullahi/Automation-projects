@@ -1,2 +1,3 @@
-# Automation and artificial neural networks projects
-This is a repository for uploading automation and artificial neural networks projects
+# Automation project
+ automation projects repository.
+I created this repository to upload my awesome Automation projects.
